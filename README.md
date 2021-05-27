@@ -12,20 +12,18 @@ I defined passing as scores greater than or equal to 70. Students that passed bo
 ### Top 5 Schools
 The top five performing schools did not change with the exclusion of ninth graders of Thomas High School. For both analyses, Thomas High School had the second highest overall passing percentage:
 
-![Uploading Screen Shot 2021-05-26 at 4.58.26 PM.png…]()
+<img width="820" alt="Screen Shot 2021-05-26 at 4 58 26 PM" src="https://user-images.githubusercontent.com/83552696/119745786-b09b8300-be43-11eb-8f84-2054e89831b3.png">
 
-With the ninth graders included, the passing percentages were calculated as:
+The table above shows the results of the analysis without the ninth graders included. With the ninth graders included, the passing percentages were calculated as:
 
 <img width="340" alt="Screen Shot 2021-05-26 at 4 51 50 PM" src="https://user-images.githubusercontent.com/83552696/119745597-539fcd00-be43-11eb-898a-c5db4ab6b960.png">
 
 
-Without the ninth graders included, the passing percentages were calculated as:
-
-<img width="444" alt="Screen Shot 2021-05-26 at 4 50 58 PM" src="https://user-images.githubusercontent.com/83552696/119745642-661a0680-be43-11eb-9cf2-3a8ec817ee98.png">
-
 The tenth of a percent variations were not enough to effect the outcome of the analysis.
 
+### Bottom 5 Schools
 
+Since Thomas High School was one of the top performing schools, the change in students did not alter the results of the bottom five performing schools. 
 
 (There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data)
 
