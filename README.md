@@ -18,7 +18,7 @@ The table above shows the results of the analysis without the ninth graders incl
 
 <img width="340" alt="Screen Shot 2021-05-26 at 4 51 50 PM" src="https://user-images.githubusercontent.com/83552696/119745597-539fcd00-be43-11eb-898a-c5db4ab6b960.png">
 
-
+The values listed above for the avera
 The tenth of a percent variations were not enough to effect the outcome of the analysis.
 
 ### Bottom 5 Schools
@@ -41,10 +41,12 @@ The average reading scores for each grade in each school had the same effect as 
 
 ### Scores by School Spending per student
 
-The schools were separated into four different spending ranges per student and the average scors. Due to the tenth of a percentage change in the passing percentages with the exclusion of the Thomas High School ninth graders, the effect
-test scores were a tenth of a percentage with and without the inclusion of the ninth graders, it did not have a noticiba
+The schools were separated into four different spending ranges per student. The average test scores and passing percentages were calculated for the schools within each spending range. Thomas High School was in the $630-$644 range, but the exclusion of the ninth grade test scores did not have a noticiable effect on the averages and passing percentages. The inclusion and exclusion of the ninth grade test scores both resulted in the following results.
+
+<img width="853" alt="Screen Shot 2021-05-27 at 7 29 09 PM" src="https://user-images.githubusercontent.com/83552696/120015549-49dbae00-bf98-11eb-81c4-f7dd880ebf8d.png">
 
 ### Scores by School Size
+
 
 
 ### Scores by School Type
