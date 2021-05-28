@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Project Overview
-The school board wants to determine how various factors effect the performance of students on their standardized math and reading tests. Using the **schools_complete.csv** and **students_complete.csv** datasets, I will analyse how each school's type, size, and budget effects its math, reading, and overall performance. I will also analyse the performance of each grade for the schools. However, the school board suspects that the data provided for Thomas High School's ninth graders may have been manipulated. Therefore, I will perform the analysis with and without including those math and reading scores and compare the results. This analysis will be performed using Python in Jupyter Notebook.
+The school board wants to determine how various factors effect the performance of students on their standardized math and reading tests. Using the **schools_complete.csv** and **students_complete.csv** datasets, I will analyse how each school's type, size, and budget effects its math, reading, and overall performance. I will also analyse the performance of each grade for the schools. However, the school board suspects that the data provided for Thomas High School's ninth graders may have been manipulated. Therefore, I will perform the analysis with and without including those math and reading scores and compare the results. This analysis will be performed using Python 3.7.10 in Jupyter Notebook.
 
 ## Results
 I merged the two datasets to create a new dataframe that better summarized the data from each school:
