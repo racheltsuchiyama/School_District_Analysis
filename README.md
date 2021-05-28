@@ -23,10 +23,30 @@ The tenth of a percent variations were not enough to effect the outcome of the a
 
 ### Bottom 5 Schools
 
-Since Thomas High School was one of the top performing schools, the change in students did not alter the results of the bottom five performing schools. 
+Since Thomas High School was one of the top performing schools, the change in students did not alter the results of the bottom five performing schools. For both analyses, the bottom five performing schools based on the overall passing rate were:
 
-(There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data)
+<img width="1006" alt="Screen Shot 2021-05-27 at 7 01 31 PM" src="https://user-images.githubusercontent.com/83552696/119918852-0e040280-bf1e-11eb-8c15-094be20a9a19.png">
 
+### Average Math Score for each grade level
+
+The average math score was determined for each grade in each school. For the Thomas High School ninth graders, the math scores were substituted with NaN, or not a number, values. Therefore, the other math averages were uneffected and the only change was the replacement of averages for the Thomas High School ninth graders with a NaN value. The original values are displayed below.
+
+<img width="320" alt="Screen Shot 2021-05-27 at 7 08 59 PM" src="https://user-images.githubusercontent.com/83552696/119919313-04c76580-bf1f-11eb-99a7-66ca50455f9b.png">
+
+### Average Reading Score for each grade level
+
+The average reading scores for each grade in each school had the same effect as the average math scores described above. Below are the results when the scores of the Thomas High School ninth graders are changed to NaN.
+
+<img width="346" alt="Screen Shot 2021-05-27 at 7 13 46 PM" src="https://user-images.githubusercontent.com/83552696/119919628-ad75c500-bf1f-11eb-992d-4b605817a0b2.png">
+
+### Scores by School Spending per student
+
+The schools were separated into four different spending ranges per student. Since the change in the Thomas High School test scores were a tenth of a percentage with and without the inclusion of the ninth graders, it did not have a noticiba
+
+### Scores by School Size
+
+
+### Scores by School Type
 
 
 ## Summary
