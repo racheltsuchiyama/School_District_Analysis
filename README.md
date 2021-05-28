@@ -41,7 +41,8 @@ The average reading scores for each grade in each school had the same effect as 
 
 ### Scores by School Spending per student
 
-The schools were separated into four different spending ranges per student. Since the change in the Thomas High School test scores were a tenth of a percentage with and without the inclusion of the ninth graders, it did not have a noticiba
+The schools were separated into four different spending ranges per student and the average scors. Due to the tenth of a percentage change in the passing percentages with the exclusion of the Thomas High School ninth graders, the effect
+test scores were a tenth of a percentage with and without the inclusion of the ninth graders, it did not have a noticiba
 
 ### Scores by School Size
 
