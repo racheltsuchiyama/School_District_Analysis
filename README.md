@@ -14,12 +14,11 @@ The top five performing schools did not change with the exclusion of ninth grade
 
 <img width="820" alt="Screen Shot 2021-05-26 at 4 58 26 PM" src="https://user-images.githubusercontent.com/83552696/119745786-b09b8300-be43-11eb-8f84-2054e89831b3.png">
 
-The table above shows the results of the analysis without the ninth graders included. With the ninth graders included, the passing percentages were calculated as:
+The table above shows the results of the analysis without the ninth graders excluded. With the ninth graders included, the passing percentages were calculated as:
 
 <img width="340" alt="Screen Shot 2021-05-26 at 4 51 50 PM" src="https://user-images.githubusercontent.com/83552696/119745597-539fcd00-be43-11eb-898a-c5db4ab6b960.png">
 
-The values listed above for the avera
-The tenth of a percent variations were not enough to effect the outcome of the analysis.
+The average test scores and passing percentages only had slight variations between the two tables shown above. These changes were not large enough to effect the outcome of the analysis.
 
 ### Bottom 5 Schools
 
@@ -41,17 +40,38 @@ The average reading scores for each grade in each school had the same effect as 
 
 ### Scores by School Spending per student
 
-The schools were separated into four different spending ranges per student. The average test scores and passing percentages were calculated for the schools within each spending range. Thomas High School was in the $630-$644 range, but the exclusion of the ninth grade test scores did not have a noticiable effect on the averages and passing percentages. The inclusion and exclusion of the ninth grade test scores both resulted in the following results.
+The schools were separated into four different spending ranges per student. The average test scores and passing percentages were calculated for the schools within each spending range. Thomas High School was in the $630-$644 range, but the exclusion of the ninth grade test scores had a negligible effect on the averages and passing percentages. The inclusion and exclusion of the ninth grade test scores both resulted in the following results.
 
 <img width="853" alt="Screen Shot 2021-05-27 at 7 29 09 PM" src="https://user-images.githubusercontent.com/83552696/120015549-49dbae00-bf98-11eb-81c4-f7dd880ebf8d.png">
 
 ### Scores by School Size
 
+The schools were separated into three different ranges based on the number of students they have. Thomas High School was in the medium range with 1,635 students and was still in the medium student range without the 461 ninth graders included. The average scores and passing percentages of the medium range were the same with and without the Thomas High School ninth graders.
 
+<img width="774" alt="Screen Shot 2021-05-28 at 9 39 01 AM" src="https://user-images.githubusercontent.com/83552696/120021966-988d4600-bfa0-11eb-81ff-606b92ff7337.png">
 
 ### Scores by School Type
 
+The schools in the dataset were either charter or district schools. Thomas High School was a charter school. The values in the table below did not change with the ninth graders excluded.
+
+<img width="726" alt="Screen Shot 2021-05-28 at 10 39 20 AM" src="https://user-images.githubusercontent.com/83552696/120022504-587a9300-bfa1-11eb-9170-b377e00e3cd1.png">
 
 ## Summary
 
-(There is a statement summarizing four changes to the school district analysis after reading and math scores have been replaced )
+The school board was concerned that the test scores of the Thomas High School ninth graders were manipulated. However, after replacing those test scores with NaN values, I found a negligible change in the school district analysis. The school district metrics listed in the results were unchanged with the exclusion of the Thomas High School ninth graders. There were small changes in the district summary.
+
+### District Summary
+
+With ninth graders:
+
+ <img width="932" alt="Screen Shot 2021-05-28 at 10 56 32 AM" src="https://user-images.githubusercontent.com/83552696/120028128-24a36b80-bfa9-11eb-9bb3-b00a176d3cbd.png">
+
+
+Without ninth graders:
+
+<img width="948" alt="Screen Shot 2021-05-28 at 11 33 14 AM" src="https://user-images.githubusercontent.com/83552696/120028158-2e2cd380-bfa9-11eb-9dc1-810f19d0dd2f.png">
+
+The average math and reading scores changed by a hundredths of a whole number. However, the hundredths place values do not have a significant effect on the averages. The exclusion of the Thomas High School ninth graders resulted in the average math score being one tenth of a point lower when rounded to the tenth place. The average reading scores were the same when rounded to the tenth place.
+
+The passing percentages for math and reading varied in their tenths place. However, this is equivalent to a thousandths of a whole number and is therefore negligible in the analysis. When rounded to a whole percentage, the passing math and reading values were the same. The overall passing percentages were different with and without the ninth graders included. However, when rounded to a whole percent the overall passing percentages were the same.
+
