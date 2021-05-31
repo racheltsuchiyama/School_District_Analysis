@@ -75,5 +75,5 @@ The average math and reading scores changed by hundredths of a whole number. How
 
 The passing percentages for math and reading varied in their tenths place. However, this is equivalent to a thousandths of a whole number and is therefore negligible in the analysis. When rounded to a whole percentage, the passing math and reading values were the same. The overall passing percentages were different with and without the ninth graders included. However, when rounded to a whole percent the overall passing percentages were the same. 
 
-Therefore, the scores of the Thomas High School ninth graders do not appear to have been manipulated. Their exclusion
+Therefore, the scores of the Thomas High School ninth graders do not appear to have been manipulated. Their exclusion had negligible effects on the overall performance of Thomas High School.
 
