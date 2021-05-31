@@ -1,13 +1,13 @@
 # School_District_Analysis
 ## Project Overview
-The school board wants to determine how various factors effect the performance of students on their standardized math and reading tests. Using the **schools_complete.csv** and **students_complete.csv** datasets, I will analyse how each school's type, size, and budget effects its math, reading, and overall performance. I will also analyse the performance of each grade for the schools. However, the school board suspects that the data provided for Thomas High School's ninth graders may have been manipulated. Therefore, I will perform the analysis with and without including those math and reading scores and compare the results. This analysis will be performed using Python 3.7.10 in Jupyter Notebook.
+The school board wants to determine how various factors effect the performance of students on their standardized math and reading tests. Using the **schools_complete.csv** and **students_complete.csv** datasets, I analysed how each school's type, size, and budget effected its math, reading, and overall performance. I also analysed the performance of each grade for the schools. However, the school board suspected that the data provided for Thomas High School's ninth graders may have been manipulated. Therefore, I performed the analysis with and without including those math and reading scores and compared the results. This analysis was be performed using Python 3.7.10 in Jupyter Notebook.
 
 ## Results
 I merged the two datasets to create a new dataframe that better summarized the data from each school:
 
 <img width="1009" alt="Screen Shot 2021-05-26 at 4 37 11 PM" src="https://user-images.githubusercontent.com/83552696/119744352-ac219b00-be40-11eb-8605-1a668025de3c.png">
 
-I defined passing as scores greater than or equal to 70. Students that passed both their math and reading tests were used to determine the overall passing percentage. With this new dataframe, I peformed the following analysis.
+I defined passing as scores greater than or equal to 70. Students that passed both their math and reading tests were used to determine the overall passing percentage. The data for Thomas High School had slight variations with and without the inclusion of the scores of the ninth graders. However, the other schools in the school summary dataframe remained unchanged. With this new dataframe, I peformed the following analysis.
 
 ### Top 5 Schools
 The top five performing schools did not change with the exclusion of ninth graders of Thomas High School. For both analyses, Thomas High School had the second highest overall passing percentage:
@@ -18,7 +18,7 @@ The table above shows the results of the analysis without the ninth graders excl
 
 <img width="340" alt="Screen Shot 2021-05-26 at 4 51 50 PM" src="https://user-images.githubusercontent.com/83552696/119745597-539fcd00-be43-11eb-898a-c5db4ab6b960.png">
 
-The average test scores and passing percentages only had slight variations between the two tables shown above. These changes were not large enough to effect the outcome of the analysis.
+The average test scores and passing percentages only had slight variations between the two tables shown above. These changes were not large enough to effect the outcome of the analysis. 
 
 ### Bottom 5 Schools
 
@@ -71,7 +71,9 @@ Without ninth graders:
 
 <img width="948" alt="Screen Shot 2021-05-28 at 11 33 14 AM" src="https://user-images.githubusercontent.com/83552696/120028158-2e2cd380-bfa9-11eb-9dc1-810f19d0dd2f.png">
 
-The average math and reading scores changed by a hundredths of a whole number. However, the hundredths place values do not have a significant effect on the averages. The exclusion of the Thomas High School ninth graders resulted in the average math score being one tenth of a point lower when rounded to the tenth place. The average reading scores were the same when rounded to the tenth place.
+The average math and reading scores changed by hundredths of a whole number. However, the hundredths place values do not have a significant effect on the averages. The exclusion of the Thomas High School ninth graders resulted in the average math score being one tenth of a point lower when rounded to the tenth place. The average reading scores were the same when rounded to the tenth place.
 
-The passing percentages for math and reading varied in their tenths place. However, this is equivalent to a thousandths of a whole number and is therefore negligible in the analysis. When rounded to a whole percentage, the passing math and reading values were the same. The overall passing percentages were different with and without the ninth graders included. However, when rounded to a whole percent the overall passing percentages were the same.
+The passing percentages for math and reading varied in their tenths place. However, this is equivalent to a thousandths of a whole number and is therefore negligible in the analysis. When rounded to a whole percentage, the passing math and reading values were the same. The overall passing percentages were different with and without the ninth graders included. However, when rounded to a whole percent the overall passing percentages were the same. 
+
+Therefore, the scores of the Thomas High School ninth graders do not appear to have been manipulated. Their exclusion
 
